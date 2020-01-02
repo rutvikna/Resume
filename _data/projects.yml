@@ -2,15 +2,36 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
+- project: Low-power wide area sensor network based on LoRa and LoRaWAN
   role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+  duration: Jun 2016 &mdash; Aug 2016
   # url: "#"
   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
+- project: Developed a game on the LPC1768 development board
   role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+  duration: Jun 2016 &mdash; Aug 2016
   # url: "#"
   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+
+# Springfield Community Outreach Group
+- project: Design and Layout of a 12V Voltage Regulator IC
+  role: Co-Founder & Organizer
+  duration: Jun 2016 &mdash; Aug 2016
+  # url: "#"
+  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+
+# Fabrication of a Si solarcell
+- project: Fabrication of a crystalline Si p-n junction solar cell
+  role: Co-Founder & Organizer
+  duration: Jul 2015 &mdash; Sep 2015
+  # url: "#"
+  description: <ul class="resume-item-list"><li>The Fabrication was done in the University’s Cleanroom; the process included wafer cleaning, Photolithography, Sputtering, Etching and Ion Implantation.</li><li>The Solar cell was tested for parameters like fill factor, maximum power and efficiency.</li></ul>
+
+# Application and Game Development in C++ and Python
+- project: Application and Game Development
+  role: Co-Founder & Organizer
+  duration: Jun 2016 &mdash; Aug 2016
+  # url: "#"
+  description: <ul class="resume-item-list"><li>Developed a “Flappy Birds” style game in Python 2.7 using the Pygame library.</li><li>Created a 2D “Space Invaders” game in the Unity 5 environment.</li><li>Created a GUI based application in Python that uses web scraping and a text to speech engine to display and read out the local NEWS and weather forecast (OWM API AND DarkSky API).</li></ul>
