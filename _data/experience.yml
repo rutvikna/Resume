@@ -2,12 +2,11 @@
 # VP of Global Communications
 - company: Aquasense Private Limited
   position: Senior Product Development Engineer
-  duration: Oct, 2017 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  duration: Oct 2017 &mdash; Present
+  summary: Aquasense Private Limited is an IIT-Delhi incubated, StartUp India recognized company developing innovative solutions for water resource management. <ul class="resume-item-list"><li>Core member of the product development team involved in the end-end development of the “Statometer” from initial hardware development to deployment of 350 devices across India.</li></ul>
 
 # Director of Digital Stratgy
 - company: Premier IT Solutions Inc.
-  position: Director of Digital Strategy
-  duration:  Dec, 2016 &mdash; April, 2017
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-  
+  position: Systems Administrator, Intern
+  duration:  Dec 2016 &mdash; April 2017
+  summary: As an intern, I analysed existing hardware systems, documented the application development process and worked on kernel customization, Driver development for the Beaglebone Board.
