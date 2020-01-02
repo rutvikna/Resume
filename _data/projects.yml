@@ -3,35 +3,35 @@
 
 # Sensor Network
 - project: Low-power wide area sensor network based on LoRa and LoRaWAN
-  role: Founder & Primary Developer
+  role: Personal project
   duration: Dec 2019 &mdash; Present
   # url: "#"
   description: <ul class="resume-item-list"><li>Developed a “Flappy Birds” style game in Python 2.7 using the Pygame library.</li><li>Created a 2D “Space Invaders” game in the Unity 5 environment.</li><li>Created a GUI based application in Python that uses web scraping and a text to speech engine to display and read out the local NEWS and weather forecast (OWM API AND DarkSky API).</li></ul>
 
 # Designa and Layout of a 12V regulator
 - project: Design and Layout of a 12V Voltage Regulator IC
-  role: Co-Founder & Organizer
+  role: Course project
   duration: Oct 2015 &mdash; Jan 2016
   # url: "#"
   description: <ul class="resume-item-list"><li>Designed a 12V voltage regulator by integrating a two-stage cascaded operational amplifier and a Widlar Bandgap Reference Voltage circuit in Cadence Virtuoso Analog Design Environment.</li><li>Packaged the IC and verified the design by checking for parameters like power dissipation, effect of temperature, varying input voltage etc by running simulations on Cadence ADE.</li></ul>
 
 # Fabrication of a Si solarcell
 - project: Fabrication of a crystalline Si p-n junction solar cell
-  role: Co-Founder & Organizer
+  role: Course project
   duration: Jul 2015 &mdash; Sep 2015
   # url: "#"
   description: <ul class="resume-item-list"><li>The Fabrication was done in the University’s Cleanroom; the process included wafer cleaning, Photolithography, Sputtering, Etching and Ion Implantation.</li><li>The Solar cell was tested for parameters like fill factor, maximum power and efficiency.</li></ul>
 
 # Developed a game on the LPC1768 development board
 - project: Developed a game on the LPC1768 development board
-  role: Co-Founder & Organizer
+  role: Course project
   duration: Feb 2015 &mdash; May 2015
   # url: "#"
   description: <ul class="resume-item-list"><li>The project involved understanding the architecture and capabilities of the Cortex-M3 processor based development board, interfacing the microcontroller with a GLCD Screen, a 3-axis MEMS sensor on the Wii  Nunchuk via I2C etc  and developing a game in Embedded C using Keil Tools.</li></ul>
 
 # Application and Game Development in C++ and Python
 - project: Application and Game Development
-  role: Co-Founder & Organizer
+  role: Personal project
   duration: Jun 2016 &mdash; Aug 2016
   # url: "#"
   description: <ul class="resume-item-list"><li>Developed a “Flappy Birds” style game in Python 2.7 using the Pygame library.</li><li>Created a 2D “Space Invaders” game in the Unity 5 environment.</li><li>Created a GUI based application in Python that uses web scraping and a text to speech engine to display and read out the local NEWS and weather forecast (OWM API AND DarkSky API).</li></ul>
