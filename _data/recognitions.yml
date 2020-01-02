@@ -1,10 +1,5 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
-
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: Best Project of the Year 2014
+  organization: SRM University
+  year: 2014
+  summary: <ul class="resume-item-list"><li>The objective of the project was to design a smart shopping cart that would eliminate the need for queues and manual labor at billing counters thereby reducing operational costs and queue wait times.</li><li>Successfully designed a system with a  PIC microcontroller at the core interfaced with passive RFID tags, an  LCD, APR9600 Sound Recorder IC and a GSM module.</li></ul>
