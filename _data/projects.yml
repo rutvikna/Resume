@@ -9,11 +9,11 @@
   description: <ul class="resume-item-list"><li>Design PCB for sensor nodes (Use Semtech SX1272 IC)....small scale sensor network.</li><li>Base node - Raspberry Pi interfaced with a Libelium LoRa module.</li><li>Data transmitted to a cloud server through MQTT. Dashboard on thingspeak.</li></ul>
 
 # MQTT Logger
-- project: Developed a browser-based application to monitor the status of IoT devices.
+- project: Developed a simple browser-based application to monitor the status of IoT devices
   role: Personal project
-  duration: Dec 2019 
+  duration: Dec 2019
   # url: "#"
-  description: [self-directed learning project]; AWS and the server-side of things.<ul class="resume-item-list"><li>A project where;;;;;=====AWS and various dev languages like PHP, SQLite3 to configure a LAMP server that logs MQTT data from all the connected devices into an SQLite database which can be accessed through a browser-based frontend to view the status of the installed devices: battery level, most recent notification and last measurement's timestamp.</li></ul>
+  description: <ul class="resume-item-list"><li>[self-directed learning project]; AWS and the server-side of things.</li><li>A project where;;;;;=====AWS and various dev languages like PHP, SQLite3 to configure a LAMP server that logs MQTT data from all the connected devices into an SQLite database which can be accessed through a browser-based frontend to view the status of the installed devices: battery level, most recent notification and last measurement's timestamp.</li></ul>
 
 # Designa and Layout of a 12V regulator
 - project: Design and Layout of a 12V Voltage Regulator IC
