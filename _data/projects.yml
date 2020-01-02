@@ -13,7 +13,7 @@
   role: Personal project
   duration: Dec 2019
   # url: "#"
-  description: <ul class="resume-item-list"><li>[self-directed learning project]; AWS and the server-side of things.</li><li>A project where;;;;;=====AWS and various dev languages like PHP, SQLite3 to configure a LAMP server that logs MQTT data from all the connected devices into an SQLite database which can be accessed through a browser-based frontend to view the status of the installed devices: battery level, most recent notification and last measurement's timestamp.</li></ul>
+  description: <ul class="resume-item-list"><li>self-directed learning project.</li><li>AWS and dev Python, PHP and SQLite to configure a LAMP server that logs MQTT messages into an SQLite database which can be accessed through a browser-based frontend to view the status of the installed devices: battery level and last measurement's timestamp.</li></ul>
 
 # Designa and Layout of a 12V regulator
 - project: Design and Layout of a 12V Voltage Regulator IC
