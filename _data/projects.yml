@@ -8,6 +8,7 @@
   # url: "#"
   description: <ul class="resume-item-list"><li>Design PCB for sensor nodes (Use Semtech SX1272 IC)....small scale sensor network.</li><li>Base node - Raspberry Pi interfaced with a Libelium LoRa module.</li><li>Data transmitted to a cloud server through MQTT. Dashboard on thingspeak.</li></ul>
 
+# MQTT Logger
 - project: Developed a browser-based application to monitor the status of IoT devices.
   role: Personal project
   duration: Dec 2019 
