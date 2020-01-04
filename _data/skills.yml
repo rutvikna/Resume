@@ -1,13 +1,14 @@
 # Skills
-# Organizational leadership
+
+# Programming languages
 - skill: Programming languages
   description: C, Embedded C, Python and C++.
 
-# Communications strategy
+# Communication protocols
 - skill: Communication protocols
   description: I2C, SPI, RS-485 (Modbus RTU) and USB.
   description: MQTT, GSM.
 
-# Digital content development and creation
+# Processors and controllers
 - skill: μProcessors and μControllers
   description: Cortex M0+ (SAM-D series), Cortex M3 (LPC1768) and Cortex M4 (SAM4S series).
