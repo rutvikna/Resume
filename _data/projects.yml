@@ -2,7 +2,7 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Sensor Network
-- project: Low-power wide area sensor network based on LoRa and LoRaWAN
+- project: Low-power wide-area (LPWA) sensor network based on LoRa™ technology. 
   role: Personal project
   duration: Dec 2019 &mdash; Present
   # url: "#"
