@@ -7,7 +7,6 @@
 # Communication protocols
 - skill: Communication protocols
   description: I2C, SPI, RS-485 (Modbus RTU) and USB.
-  description: MQTT, GSM.
 
 # Processors and controllers
 - skill: μProcessors and μControllers
