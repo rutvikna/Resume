@@ -1,6 +1,6 @@
 # Site settings
-title: "Rutvik Narayana N"
-description: "My résumé"
+title: "Rutvik Narayana"
+description: "Profile"
 
 # Build settings
 markdown: kramdown
@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Rutvik Narayana Nadimpally"
+resume_name:                    "Rutvik Narayana"
 resume_title:                   "Senior Product Development Engineer"
 
 # used for the contact button in _layouts/resume.html
@@ -18,10 +18,10 @@ resume_contact_email:           "rutvik.narayana@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "+91 8448922508"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+# resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • +91 8448922508 • rutvik.narayana@gmail.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "• +91 8448922508 • rutvik.narayana@gmail.com"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Experienced product development engineer with a demonstrated history of working on end-to-end solutions in Start-Up organizations.</p>"
 
