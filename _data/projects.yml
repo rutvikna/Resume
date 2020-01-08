@@ -4,14 +4,14 @@
 # Sensor Network
 - project: Low-power wide-area (LPWA) sensor network based on LoRa™ technology. 
   role: Personal project
-  duration: Dec 2019 &mdash; Present
+  duration: 
   # url: "#"
   description: <ul class="resume-item-list"><li>Working on designing an SX1272 based LoRa node PCB that can be used to interface with different sensors. The sensor nodes are connected to a base node (Raspberry Pi interfaced with a LoRa HAT) in a star topology.</li><li>The sensor data is transmitted to a cloud server and can be accessed using open-source IoT applications such as thingSpeak™.</li></ul>
 
 # MQTT Logger
 - project: Developed a simple browser-based application to monitor the status of IoT devices
   role: Personal project
-  duration: Dec 2019
+  duration: 
   # url: "#"
   description: <ul class="resume-item-list"><li>To have a stronger understanding of AWS, I took up a self-directed learning project; Configured a LAMP server that logs MQTT messages from the sensor nodes into an SQLite database which can be accessed through a browser-based frontend to view the status of the installed devices, battery level and last measurement.</li></ul>
 
