@@ -4,19 +4,17 @@
 # Sensor Network
 - project: Low-power wide-area (LPWA) sensor network based on LoRa™ technology. 
   role: Personal project
-  duration: 
   # url: "#"
   description: <ul class="resume-item-list"><li>Working on designing an SX1272 based LoRa node PCB that can be used to interface with different sensors. The sensor nodes are connected to a base node (Raspberry Pi interfaced with a LoRa HAT) in a star topology.</li><li>The sensor data is transmitted to a cloud server and can be accessed using open-source IoT applications such as thingSpeak™.</li></ul>
 
 # MQTT Logger
 - project: Developed a simple browser-based application to monitor the status of IoT devices
   role: Personal project
-  duration: 
   # url: "#"
   description: <ul class="resume-item-list"><li>To have a stronger understanding of AWS, I took up a self-directed learning project; Configured a LAMP server that logs MQTT messages from the sensor nodes into an SQLite database which can be accessed through a browser-based frontend to view the status of the installed devices, battery level and last measurement.</li></ul>
 
 # Designa and Layout of a 12V regulator
-- project: Design and Layout of a 12V Voltage Regulator IC
+- project: Design a 12V Voltage Regulator IC
   role: Course project
   duration: Oct 2015 &mdash; Jan 2016
   # url: "#"
@@ -42,3 +40,13 @@
   duration: Jun 2016 &mdash; Aug 2016
   # url: "#"
   description: <ul class="resume-item-list"><li>Developed a “Flappy Birds” style game in Python 2.7 using the Pygame library.</li><li>Created a 2D “Space Invaders” game in the Unity 5 environment.</li><li>Created a GUI based application in Python that uses web scraping and a text to speech engine to display and read out the local NEWS and weather forecast (OWM API AND DarkSky API).</li></ul>
+
+
+# Implementation of an 8-bit Wallace Tree Multiplier
+#- project: Implementation of an 8-bit Wallace Tree Multiplier
+#  role: Course project
+#  duration: Aug 2015
+#  description: 
+#(Tools: Atlys Spartan 6 FPGA, Xilinx ISE Design Suite, Active HDL Simulation Tool and VHDL)
+#• Worked in a team to design and implement an 8-Bit Wallace Multiplier on the FPGA board.
+#• Compared the simulations with an 8-Bit Binary Multiplier on the Xilinx ISE Design Suite using the Aldec Active HDL Simulation Tool.
