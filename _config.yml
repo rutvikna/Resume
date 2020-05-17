@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Rutvik Narayana"
-resume_title:                   "Senior Product Development Engineer"
+resume_title:                   "Product Development Engineer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "rutvik.narayana@gmail.com"
