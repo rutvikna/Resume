@@ -10,4 +10,4 @@
 
 # Processors and controllers
 - skill: μProcessors and μControllers
-  description: Cortex M0+ (SAM-D series), Cortex M3 (LPC1768) and Cortex M4 (SAM4S series).
+  description: Cortex M0+ (SAM-D series), Cortex M3 (LPC1768), Cortex M4 (SAM4S series) and Xtensa LX6 (ESP32).
