@@ -18,12 +18,12 @@ resume_contact_email:           "rutvik.narayana@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 #resume_contact_telephone:       "+91 8448922508"
-resume_contact_address:         "Delhi, India"
+#resume_contact_address:         "Delhi, India"
 
 resume_header_contact_info:     "• rutvik.narayana@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Experienced Product Development Engineer with a demonstrated history of working in the Computer Hardware industry. A results-driven engineer who is passionate about disruptive technologies that solve major problems. Expertise in Embedded software/firmware development, hardware design & debugging and scripting in Python.Experienced Product Development Engineer with a demonstrated history of working in the Computer Hardware industry. A results-driven engineer who is passionate about disruptive technologies that solve major problems. Expertise in Embedded software/firmware development, hardware design & debugging and scripting in Python.</p>"
+resume_header_intro: "<p>Experienced Product Development Engineer with a demonstrated history of working in the Computer Hardware industry. A results-driven engineer who is passionate about disruptive technologies that solve major problems. Expertise in Embedded software/firmware development, hardware design & debugging and scripting in Python.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
