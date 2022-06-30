@@ -23,7 +23,7 @@ resume_contact_email:           "rutvik.narayana@gmail.com"
 resume_header_contact_info:     "• rutvik.narayana@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Experienced product development engineer with a demonstrated history of working on end-to-end solutions in Start-Up organizations.</p>"
+resume_header_intro: "<p>Experienced Product Development Engineer with a demonstrated history of working in the Computer Hardware industry. A results-driven engineer who is passionate about disruptive technologies that solve major problems. Expertise in Embedded software/firmware development, hardware design & debugging and scripting in Python.Experienced Product Development Engineer with a demonstrated history of working in the Computer Hardware industry. A results-driven engineer who is passionate about disruptive technologies that solve major problems. Expertise in Embedded software/firmware development, hardware design & debugging and scripting in Python.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -45,7 +45,7 @@ resume_section_interests:       true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  # resume_github_url:            "https://github.com/rutvikna"
+  resume_github_url:            "https://github.com/rutvikna"
   # resume_twitter_url:           "http://twitter.com/jglovier"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
