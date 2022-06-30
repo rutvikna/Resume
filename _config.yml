@@ -18,7 +18,7 @@ resume_contact_email:           "rutvik.narayana@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 #resume_contact_telephone:       "+91 8448922508"
-# resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_address:         "Delhi, India"
 
 resume_header_contact_info:     "• rutvik.narayana@gmail.com"
 display_header_contact_info:    "true"
